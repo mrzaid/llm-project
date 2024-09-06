@@ -1,0 +1,4 @@
+env/
+# Add the gitignore for .vscode
+.vscode/
+.env/
